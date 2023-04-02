@@ -21,9 +21,9 @@ Feel free to chat with me about my projects!
 
 # Excel
 
-| Project Name | Area | Description | Libraries |    
+| Project Name | Area | Description |  
 |---|---|---|---|
-| 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _pandas, matplotlib_ | 
+| 📺 [Fast Fashion Case Study (H&M)](https://github.com/srushtiganesh/FastFashionCaseStudy) |  Advanced Excel Dashboard |  | 
 
 # Python
 
