@@ -23,7 +23,7 @@ Feel free to chat with me about my projects!
 
 | Project Name | Area | Description |  
 |---|---|---|
-| 📺 [Fast Fashion Case Study (H&M)](https://github.com/srushtiganesh/FastFashionCaseStudy) |  Advanced Excel Dashboard |  | 
+| 📺 [Fast Fashion Case Study (H&M)](https://github.com/srushtiganesh/FastFashionCaseStudy) |  Advanced Excel Dashboard | Analyses youth opinions on H&M, subsequently forming 3 problem areas and solutions to tackle these problems. | 
 
 # Python
 
