@@ -22,7 +22,7 @@ Feel free to chat with me about my projects!
 # Excel
 
 | Project Name | Area | Description |  
-|---|---|---|---|
+|---|---|---|
 | 📺 [Fast Fashion Case Study (H&M)](https://github.com/srushtiganesh/FastFashionCaseStudy) |  Advanced Excel Dashboard |  | 
 
 # Python
