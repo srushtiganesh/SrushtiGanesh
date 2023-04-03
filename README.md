@@ -16,14 +16,14 @@ Feel free to chat with me about my projects!
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) |  | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 🏦 [Analysis of young adults' banking preferences](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | My team and I analysed more than 200 data points to deduce common banking preferences, with which we proposed 2 solutions to allow UOB to capture young adults' mindshare. We had the previlage of sharing our dashboard with UOB officials.  | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 🏅 [Why should CCA be compulsory](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | I surveyd 100 students and analysed the impact of CCA from their experiences and achievements to form a conclusion-  why should CCA be compulsary? | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
 # Excel
 
 | Project Name | Area | Description |  
 |---|---|---|
-| 📺 [Fast Fashion Case Study (H&M)](https://github.com/srushtiganesh/FastFashionCaseStudy) |  Advanced Excel Dashboard | Analyses youth opinions on H&M, subsequently forming 3 problem areas and solutions to tackle these problems. | 
+| 🛍️ [Fast Fashion Case Study (H&M)](https://github.com/srushtiganesh/FastFashionCaseStudy) |  Advanced Excel Dashboard | This project analyses youth opinions on H&M, and its decline in popularity within the industry, subsequently forming 3 problem areas and solutions. | 
 
 # Python
 
