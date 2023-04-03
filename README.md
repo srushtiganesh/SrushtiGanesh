@@ -16,7 +16,7 @@ Feel free to chat with me about my projects!
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| 🏦 [Analysis of young adults' banking preferences](https://github.com/srushtiganesh/YoungAdultsBankingPreferences) | My team and I analysed more than 200 data points to deduce common banking preferences, with which we proposed 2 solutions to allow UOB to capture young adults' mindshare. We had the previlage of sharing our dashboard with UOB officials.  | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 🏦 [Analysis of young adults' banking preferences](https://github.com/srushtiganesh/YoungAdultsBankingPreferences) | My team and I analysed more than 200 data points to deduce common banking preferences, with which we proposed 2 solutions to allow UOB to capture young adults' mindshare. We had the previlage of sharing our dashboard with UOB officials.  | [Link](https://github.com/srushtiganesh/YoungAdultsBankingPreferences/blob/main/TF02_Srushti_final%20(3).twbx) |
 | 🏅 [Why should CCA be compulsory](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | I surveyd 100 students and analysed the impact of CCA from their experiences and achievements to form a conclusion-  why should CCA be compulsary? | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
 # Excel
