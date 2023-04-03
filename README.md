@@ -34,4 +34,4 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
 | 📺 [Linear Regression](https://github.com/srushtiganesh/PythonProjects/tree/main) |   Data Transformation and Linear Regression | Predicting  | _pandas, matplotlib, numpy, Seaborn_ |   
-| ⛽️ [Clustering](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Transformation & Clustering |XXXXX|  _pandas, matplotlib_ |  
+| ⛽️ [Clustering](https://github.com/srushtiganesh/YoungAdultsBankingPreferences#python-walkthrough) | Data Transformation & Clustering |XXXXX|  _pandas, matplotlib, numpy, scaler, pca, seaborn_ |  
