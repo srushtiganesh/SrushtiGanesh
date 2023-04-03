@@ -34,4 +34,4 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
 | 📺 [Linear Regression](https://github.com/srushtiganesh/PythonProjects/tree/main) |   Data Transformation and Linear Regression | Predicting  | _pandas, matplotlib, numpy, Seaborn_ |   
-| ⛽️ [Clustering](https://github.com/srushtiganesh/YoungAdultsBankingPreferences#python-walkthrough) | Data Transformation & Clustering |XXXXX|  _pandas, matplotlib, numpy, scaler, pca, seaborn_ |  
+| ⛽️ [Clustering](https://github.com/srushtiganesh/YoungAdultsBankingPreferences#python-walkthrough) | Data Transformation & Clustering |I use clustering to group a large amount of data to better understand the target audience's preferences and needs. This is part of my 'Analysis of young adult's banking preferences' project.|  _pandas, matplotlib, numpy, scaler, pca, seaborn_ |  
